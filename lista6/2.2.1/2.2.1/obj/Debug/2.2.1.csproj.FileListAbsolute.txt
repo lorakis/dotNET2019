@@ -1,0 +1,6 @@
+C:\Users\karol\Documents\Studia\dotNET\lista6\2.2.1\2.2.1\obj\Debug\2.2.1.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Studia\dotNET\lista6\2.2.1\2.2.1\obj\Debug\MainWindow.g.cs
+C:\Users\karol\Documents\Studia\dotNET\lista6\2.2.1\2.2.1\obj\Debug\Uczelnia.g.cs
+C:\Users\karol\Documents\Studia\dotNET\lista6\2.2.1\2.2.1\obj\Debug\App.g.cs
+C:\Users\karol\Documents\Studia\dotNET\lista6\2.2.1\2.2.1\obj\Debug\2.2.1_MarkupCompile.cache
+C:\Users\karol\Documents\Studia\dotNET\lista6\2.2.1\2.2.1\obj\Debug\2.2.1_MarkupCompile.lref

@@ -1,0 +1,13 @@
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\bin\Debug\netcoreapp3.1\zad3.exe
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\bin\Debug\netcoreapp3.1\zad3.deps.json
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\bin\Debug\netcoreapp3.1\zad3.runtimeconfig.json
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\bin\Debug\netcoreapp3.1\zad3.runtimeconfig.dev.json
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\bin\Debug\netcoreapp3.1\zad3.dll
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\bin\Debug\netcoreapp3.1\zad3.pdb
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.AssemblyInfo.cs
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.dll
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.pdb
+C:\Users\karol\Documents\Studia\dotNET\lista1\zad3\zad3\obj\Debug\netcoreapp3.1\zad3.genruntimeconfig.cache

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+
+<ListaOsób xmlns="studenci">
+  <Osoba>
+    <Imię>Andrzej</Imię>
+    <Nazwisko>Kowalski</Nazwisko>
+    <DataUr>1933-12-27</DataUr>
+    <AdresStały>Wilczyce ul. Akacjowa 3 </AdresStały>
+    <AdresTym>Wrocław ul. Labradorowa 12 </AdresTym>
+    <ListaZajęć nazwa="zajęcia">
+      <Zajęcie>
+        <Nazwa>DotNet</Nazwa>
+        <Ocena>5.0</Ocena>
+      </Zajęcie>
+      <Zajęcie>
+        <Nazwa>AiSD</Nazwa>
+        <Ocena>3.0</Ocena>
+      </Zajęcie>
+      <Zajęcie>
+        <Nazwa>RPiS</Nazwa>
+        <Ocena>3.0</Ocena>
+      </Zajęcie>
+    </ListaZajęć>
+  </Osoba>
+  <Osoba>
+    <Imię>Karol</Imię>
+    <Nazwisko>Grabowski</Nazwisko>
+    <DataUr>1999-11-11</DataUr>
+    <AdresStały>Częstochowa ul. Jerozolimska 20 </AdresStały>
+    <AdresTym>Warszawa ul. Główna 5 </AdresTym>
+    <ListaZajęć nazwa="zajęcia">
+      <Zajęcie>
+        <Nazwa>DotNet</Nazwa>
+        <Ocena>4.0</Ocena>
+      </Zajęcie>
+      <Zajęcie>
+        <Nazwa>AiSD</Nazwa>
+        <Ocena>2.0</Ocena>
+      </Zajęcie>
+      <Zajęcie>
+        <Nazwa>RPiS</Nazwa>
+        <Ocena>3.5</Ocena>
+      </Zajęcie>
+    </ListaZajęć>
+  </Osoba>
+  <Osoba>
+    <Imię>Aleksander</Imię>
+    <Nazwisko>Maćkowski</Nazwisko>
+    <DataUr>2010-06-02</DataUr>
+    <AdresStały>Warszawa ul. Myśliwiecka 1 </AdresStały>
+    <AdresTym>Wrocław ul. Grunwaldzka 64 </AdresTym>
+    <ListaZajęć nazwa="zajęcia">
+      <Zajęcie>
+        <Nazwa>DotNet</Nazwa>
+        <Ocena>2.0</Ocena>
+      </Zajęcie>
+      <Zajęcie>
+        <Nazwa>AiSD</Nazwa>
+        <Ocena>3.5</Ocena>
+      </Zajęcie>
+      <Zajęcie>
+        <Nazwa>RPiS</Nazwa>
+        <Ocena>4.5</Ocena>
+      </Zajęcie>
+    </ListaZajęć>
+  </Osoba>
+</ListaOsób>

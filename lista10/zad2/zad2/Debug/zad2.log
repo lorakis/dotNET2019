@@ -1,0 +1,5 @@
+﻿  zad2.cpp
+C:\Users\karol\Documents\Studia\dotNET\lista10\zad2\zad2\zad2.cpp(79,9): warning C4101: "hBrush": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Documents\Studia\dotNET\lista10\zad2\zad2\zad2.cpp(76,14): warning C4101: "ps": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Documents\Studia\dotNET\lista10\zad2\zad2\zad2.cpp(75,14): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+  zad2.vcxproj -> C:\Users\karol\Documents\Studia\dotNET\lista10\zad2\Debug\zad2.exe

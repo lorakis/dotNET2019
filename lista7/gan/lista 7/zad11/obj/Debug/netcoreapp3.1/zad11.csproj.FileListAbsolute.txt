@@ -1,0 +1,4 @@
+C:\Users\karol\Documents\Studia\dotNET\lista7\gan\lista 7\zad11\obj\Debug\netcoreapp3.1\zad11.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Studia\dotNET\lista7\gan\lista 7\zad11\obj\Debug\netcoreapp3.1\zad11.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista7\gan\lista 7\zad11\obj\Debug\netcoreapp3.1\zad11.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista7\gan\lista 7\zad11\obj\Debug\netcoreapp3.1\zad11.AssemblyInfo.cs

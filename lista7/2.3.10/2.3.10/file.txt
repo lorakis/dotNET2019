@@ -1,0 +1,1 @@
+Poniższy przykład pobiera tablicę CultureInfo obiektów, które reprezentują neutralne kultury z metody GetCultures i Sortuje tablicę.

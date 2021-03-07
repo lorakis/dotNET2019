@@ -1,0 +1,13 @@
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\bin\Debug\netcoreapp3.1\1.2.3.exe
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\bin\Debug\netcoreapp3.1\1.2.3.deps.json
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\bin\Debug\netcoreapp3.1\1.2.3.runtimeconfig.json
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\bin\Debug\netcoreapp3.1\1.2.3.runtimeconfig.dev.json
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\bin\Debug\netcoreapp3.1\1.2.3.dll
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\bin\Debug\netcoreapp3.1\1.2.3.pdb
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.AssemblyInfo.cs
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.dll
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.pdb
+C:\Users\karol\Documents\Studia\dotNET\lista2\1.2.3\1.2.3\obj\Debug\netcoreapp3.1\1.2.3.genruntimeconfig.cache

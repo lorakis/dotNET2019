@@ -1,0 +1,23 @@
+﻿<Window x:Class="zad2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="547.027">
+    <Grid>
+        <ListBox x:Name="Firmy" HorizontalAlignment="Left" Height="192" Margin="44,53,0,0" VerticalAlignment="Top" Width="197" SelectionChanged="Firmy_SelectionChanged"/>
+        <ListView x:Name="Modele" HorizontalAlignment="Left" Height="192" Margin="288,53,0,0" VerticalAlignment="Top" Width="201">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Firmy:" HorizontalAlignment="Left" Margin="44,22,0,0" VerticalAlignment="Top"/>
+        <Label Content="Modele:" HorizontalAlignment="Left" Margin="288,22,0,0" VerticalAlignment="Top"/>
+        <Button Content="Download" HorizontalAlignment="Left" Margin="173,302,0,0" VerticalAlignment="Top" Width="180" Height="43" Click="Button_Click"/>
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="29" Margin="44,357,0,0" VerticalAlignment="Top" Width="445" ValueChanged="ProgressBar_ValueChanged"/>
+    </Grid>
+</Window>

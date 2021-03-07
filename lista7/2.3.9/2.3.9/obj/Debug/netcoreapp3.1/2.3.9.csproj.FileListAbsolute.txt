@@ -1,0 +1,4 @@
+C:\Users\karol\Documents\Studia\dotNET\lista7\2.3.9\2.3.9\obj\Debug\netcoreapp3.1\2.3.9.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Studia\dotNET\lista7\2.3.9\2.3.9\obj\Debug\netcoreapp3.1\2.3.9.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista7\2.3.9\2.3.9\obj\Debug\netcoreapp3.1\2.3.9.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Studia\dotNET\lista7\2.3.9\2.3.9\obj\Debug\netcoreapp3.1\2.3.9.AssemblyInfo.cs

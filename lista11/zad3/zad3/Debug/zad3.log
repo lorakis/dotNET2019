@@ -1,0 +1,3 @@
+﻿  zad3.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: nierozpoznany zewnętrzny symbol _WinMain@16 przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\karol\Documents\Studia\dotNET\lista11\zad3\Debug\zad3.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
